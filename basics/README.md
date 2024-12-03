@@ -7,3 +7,4 @@ delete the file
 list a long formt file with hidesn file in the parent working directory and boot directory 
 section 12
 section 13
+moving special file
