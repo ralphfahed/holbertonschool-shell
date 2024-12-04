@@ -4,3 +4,4 @@ hello world
 print a smile
 shot the content of two files
 show the last 10 lines
+chown
