@@ -1,2 +1,2 @@
-#1/bin/bash
-fnc(){local var=""}
+#!/bin/bash
+fnc() { local BEST="School" }
