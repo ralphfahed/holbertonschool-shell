@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$BINARY" | od -An -t u1 | awk '{print $1}'
+echo "$((2#$BINARY))
