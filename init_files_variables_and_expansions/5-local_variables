@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv declare -p declare -f
+( set -o posix set declare -p declare -f )
